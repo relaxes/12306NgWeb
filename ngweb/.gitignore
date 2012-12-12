@@ -1,0 +1,7 @@
+.idea
+ngweb.iml
+.classpath
+.project
+.settings/
+logs/
+target/
